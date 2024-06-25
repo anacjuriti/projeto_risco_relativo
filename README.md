@@ -56,6 +56,10 @@ O banco também pode explorar outras aplicações da inteligência artificial pa
 
 ## Links de interesse
 
+**Ficha Técnica**
+
+- https://walnut-amethyst-a91.notion.site/PROJETO-RISCO-RELATIVO-398169dd4c72474dbd8b671c1b5fd882?pvs=4
+  
 **Dashboard**
 
 - https://lookerstudio.google.com/reporting/d3fcf3ed-a5b1-4424-b321-e5336f8d04db
