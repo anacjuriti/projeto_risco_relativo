@@ -89,4 +89,62 @@ O banco também pode explorar outras aplicações da inteligência artificial pa
 
 
 
+# CONQUISTAS
+
+## Desenvolvimento de modelo preditivo de análise de crédito automatizado para o Banco Super Caja, utilizando Machine Learning e Inteligência Artificial, com foco em:
+- Reduzir tempo de processamento de solicitações de crédito.
+- Aumentar precisão e eficiência na tomada de decisões de crédito.
+- Mitigar risco de inadimplência e proteger saúde financeira do banco.
+- Integrar métricas de pagamentos em atraso para fortalecer modelo.
+- Implementar modelo de análise de crédito responsável e transparente.
+
+## Habilidades Desenvolvidas
+**Análise de Dados:** 
+- Expertise em manipulação e análise de grandes volumes de dados usando SQL e Python (pandas, numpy).
+
+**Estatística:** 
+- Habilidade em cálculos estatísticos avançados, incluindo quintis e risco relativo.
+
+**Modelagem Preditiva:** 
+- Conhecimento em técnicas de aprendizado de máquina para modelagem preditiva, incluindo a criação e avaliação de modelos.
+
+**Validação de Modelos:** 
+- Competência em validar modelos preditivos usando matriz de confusão e métricas de avaliação (accuracy, precision, recall, F1-score).
+
+**Visualização de Dados:** 
+- Experiência em criar visualizações claras e informativas para interpretar e comunicar resultados de análises de dados.
+
+**Automatização de Processos:** 
+- Capacidade de automatizar processos de análise e modelagem de dados para aumentar a eficiência.
+
+## Ferramentas
+- BigQuery
+- Google Colab
+- Looker Studio
+- Apresentações Google
+- Notion
+
+## Linguagens
+- SQL
+- Python
+- Markdown
+
+## Resultados Alcançados
+**Desenvolvimento de Modelo de Classificação de Risco:** 
+- Criei um modelo preditivo para classificação de risco de crédito utilizando técnicas avançadas de análise de dados e modelagem estatística em SQL e Python.
+  
+**Precisão na Predição de Inadimplência:**
+-  O modelo alcançou uma exatidão de 99,1%, com precisão de 98,6% e sensibilidade de 99,6%, proporcionando uma ferramenta eficaz para a identificação de clientes com maior risco de inadimplência.
+  
+**Estruturação e Análise de Dados:**
+- Realizei a limpeza, transformação e análise de um grande conjunto de dados, incluindo a criação de variáveis dummy e cálculo de quintis, para melhorar a qualidade dos dados e a precisão do modelo.
+  
+**Validação e Avaliação de Modelos:** 
+- Utilizei a matriz de confusão e métricas de avaliação como precisão, sensibilidade e F1-score para validar e avaliar a performance do modelo, garantindo sua robustez e confiabilidade.
+O projeto resultou em uma abordagem eficaz para avaliar o risco de crédito dos clientes, utilizando técnicas de análise estatística e aprendizado de máquina.
+
+## Conclusão
+Desenvolvi habilidades sólidas em análise de dados, estatística e modelagem preditiva através da implementação de um projeto de classificação de risco de crédito. Utilizando técnicas avançadas de manipulação de dados em SQL e Python, criei um modelo eficaz para avaliar o risco de inadimplência, validado por métricas rigorosas.
+Esta experiência aprimorou minha capacidade de transformar dados complexos em insights acionáveis, contribuindo para decisões empresariais informadas.
+
 
