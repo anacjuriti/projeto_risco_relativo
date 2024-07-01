@@ -81,7 +81,7 @@ O banco também pode explorar outras aplicações da inteligência artificial pa
 ![image](https://github.com/anacjuriti/projeto_risco_relativo/assets/108712844/4a577d63-1326-42ee-af86-67d88b9d3cf8)
 
 ## Consulta de  Clientes
-![image](https://github.com/anacjuriti/projeto_risco_relativo/assets/108712844/850b3d41-85ca-4175-8f72-a81cc822c48a)
+![image](https://github.com/anacjuriti/projeto_risco_relativo/assets/108712844/5b0d2af7-66bc-4e9d-a7d9-3ea47ba0dd7b)
 
 ## Hipóteses
 ![image](https://github.com/anacjuriti/projeto_risco_relativo/assets/108712844/1cc986f0-af0a-46fb-84be-cb399921d8fd)
